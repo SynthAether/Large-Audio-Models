@@ -4,9 +4,19 @@ We keep track of something big in the audio domain,  including speech, singing, 
 
 ## Contents
 
+- [Spoken Language Models](#Spoken-Language-Models)
 - [Prompt-based Audio Synthesis](#Prompt-based-Audio-Synthesis)
 - [Audio Language Models](#Audio-Language-Models)
 - [Audio SSL/UL models](#Audio-SSL-and-UL-models)
+
+### Spoken Language Models
+- **Moshi: a speech-text foundation model for real-time dialogue**(2024.9) by Alexandre Défossez, Laurent Mazaré, Manu Orsini, Amélie Royer, Patrick Pérez, Hervé Jégou, Edouard Grave and Neil Zeghidour. [[PDF]](https://kyutai.org/Moshi.pdf)[[Code]](https://github.com/kyutai-labs/moshi)
+
+- **LLaMA-Omni: Seamless Speech Interaction with Large Language Models**(2024.9) by Qingkai Fang et al. [[PDF]](https://arxiv.org/pdf/2409.06666)[[Code]](https://github.com/ictnlp/LLaMA-Omni)
+
+- **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**(2024.8) by Zhifei Xie et al. [[PDF]](https://arxiv.org/pdf/2408.16725)[[Code]](https://github.com/gpt-omni/mini-omni)
+
+- **SpeechGPT: Speech Large Language Models**(2023.5) by Dong Zhang et al. [[PDF]](https://arxiv.org/pdf/2305.11000)[[Code]](https://github.com/0nutation/SpeechGPT/tree/main/speechgpt)
 
 ### Prompt-based Audio Synthesis
 
